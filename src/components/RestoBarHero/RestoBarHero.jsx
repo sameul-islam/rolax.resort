@@ -1,5 +1,5 @@
 import React from "react";
-import RestaurantHero from '../../assets/image/restauranthero.avif';
+import RestaurantHero from '../../assets/image/RestaurantHero.avif';
 import Navbar from "../Navbar/Navbar";
 import { IoIosArrowForward } from "react-icons/io";
 import { Link } from "react-router-dom";
