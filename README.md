@@ -77,7 +77,7 @@ The project is fully **front-end ready**, allowing easy integration with any bac
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sameul-islam/rolax.resort
+   git clone https://github.com/sameul-islam/rolax.resort.git
    cd rolax.resort
    npm install
    npm run dev
