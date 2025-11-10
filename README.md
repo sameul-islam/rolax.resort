@@ -1,12 +1,12 @@
-# Rolex.Resort Hotel Website
+# Rolax.Resort Hotel Website
 
-Welcome to the **Rolex Resort Hotel** project — a fully responsive, professional hotel booking website built with modern front-end technologies. This project showcases a luxury hotel with its rooms, restaurant, bar, blog, and contact information in a sleek and interactive interface.
+Welcome to the **Rolax Resort Hotel** project — a fully responsive, professional hotel booking website built with modern front-end technologies. This project showcases a luxury hotel with its rooms, restaurant, bar, blog, and contact information in a sleek and interactive interface.
 
 ---
 
 ## 🏨 Project Overview
 
-**Rolex Resort** is a professional hotel booking website designed to provide an immersive and elegant user experience. The website includes the following pages:
+**Rolax Resort** is a professional hotel booking website designed to provide an immersive and elegant user experience. The website includes the following pages:
 
 - **Home Page** – Showcases the hotel’s amenities, rooms, and gallery with pop-up images.
 - **About Page** – Highlights the story, philosophy, and values of the hotel.
