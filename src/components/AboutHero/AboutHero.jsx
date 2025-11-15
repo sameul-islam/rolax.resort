@@ -1,22 +1,22 @@
 import React from "react";
 import AboutHeroImage from '../../assets/image/abouthero.avif';
-import Navbar from "../Navbar/Navbar";
 import { IoIosArrowForward } from "react-icons/io";
 import { Link } from "react-router-dom";
 
 const AboutHero = () => {
   return (
     <section
-      className="relative h-[80vh] w-full bg-fixed bg-center bg-cover bg-no-repeat flex items-center justify-center"
+      className="relative h-[80vh] w-full bg-fixed bg-center bg-cover flex items-center justify-center"
       style={{
         backgroundImage: `url(${AboutHeroImage})`,
+         backgroundPosition: "center", backgroundSize: "cover",
       }}
     >
       {/* Overlay for dark tint */}
       <div className="absolute inset-0 bg-black/40"></div>
  
        {/* Navbar */}
-       <Navbar/>
+       {/* <Navbar/> */}
 
       <div className="relative z-10 text-center text-white px-4 sm:px-6 md:px-10">
 
@@ -39,3 +39,7 @@ const AboutHero = () => {
 };
 
 export default AboutHero;
+
+
+
+

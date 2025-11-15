@@ -4,7 +4,7 @@ import MissionImage from "../../assets/image/mission.avif";
 
 const MissionSection = () => {
   return (
-    <section className="w-full py-24 bg-gray-50">
+    <section className="w-full py-24 bg-gray-50 overflow-hidden">
       <div className="max-w-[1400px] mx-auto px-4 md:px-10 lg:px-16 flex flex-col lg:flex-row items-center gap-12">
         
         {/* Left Image */}

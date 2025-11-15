@@ -10,7 +10,7 @@ const AboutSection = () => {
 
 
   return (
-    <section className="flex flex-col lg:flex-row w-[99%] md:w-[95%] lg:w-[99%] xl:w-[90%] mx-auto  mt-72 lg:mt-40 gap-8 px-1 sm:px-4 lg:px-0 overflow-hidden">
+    <section className="flex flex-col lg:flex-row w-[99%] md:w-[95%] lg:w-[99%] xl:w-[90%] mx-auto  mt-20 gap-8 px-1 sm:px-4 lg:px-0 overflow-hidden">
       {/* Left Boxes */}
       <div className="flex flex-col md:flex-row gap-4 ">
 

@@ -38,7 +38,7 @@ const cardVariants = {
 
 const RestaurantSection = () => {
   return (
-    <section className="relative w-full  px-4 md:px-8 lg:px-16 xl:px-2 2xl:px-16 py-24 bg-gray-50/80">
+    <section className="relative w-full  px-4 md:px-8 lg:px-16 xl:px-2 2xl:px-16 py-24 bg-gray-50/80 overflow-hidden">
       {/* Header */}
       <div className="text-center mb-12">
         <p className="text-lg text-gray-600 font-PT">Resto & Bar</p>

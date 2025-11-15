@@ -1,6 +1,5 @@
 import React from "react";
 import RoomHero from '../../assets/image/rooms-hero.avif';
-import Navbar from "../Navbar/Navbar";
 import { IoIosArrowForward } from "react-icons/io";
 import { Link } from "react-router-dom";
 
@@ -15,8 +14,6 @@ const RoomsHero = () => {
       {/* Overlay for dark tint */}
       <div className="absolute inset-0 bg-black/40"></div>
  
-       {/* Navbar */}
-       <Navbar/>
 
       <div className="relative z-10 text-center text-white px-4 sm:px-6 md:px-10">
 

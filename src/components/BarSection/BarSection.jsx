@@ -37,7 +37,7 @@ const cardVariants = {
 
 const BarSection = () => {
   return (
-    <section className="relative w-full px-4 md:px-8 lg:px-16 xl:px-2 2xl:px-16 py-24 bg-[#faf7f3]">
+    <section className="relative w-full px-4 md:px-8 lg:px-16 xl:px-2 2xl:px-16 py-24 bg-[#faf7f3] overflow-hidden">
       {/* Header */}
       <div className="text-center mb-12">
         <p className="text-lg text-gray-600 font-PT">Our Bar</p>

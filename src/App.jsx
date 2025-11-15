@@ -9,10 +9,12 @@ import RestoBar from './pages/Resto&Bar/RestoBar'
 import About from './pages/About/About'
 import Blog from './pages/Blog/Blog'
 import Contact from './pages/Contact/Contact'
+import Navbar from './components/Navbar/Navbar'
 
 const App = () => {
   return (
     <div>
+      <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='/rooms' element={<Rooms/>} />
